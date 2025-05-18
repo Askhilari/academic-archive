@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Deep Learning for Natural Language Processing",
+    "author": "Jane Doe",
+    "year": "2021",
+    "keywords": "deep learning, NLP, AI",
+    "citations": 120
+  },
+  {
+    "id": 2,
+    "title": "Quantum Computing: An Introduction",
+    "author": "John Smith",
+    "year": "2020",
+    "keywords": "quantum computing, physics",
+    "citations": 85
+  },
+  {
+    "id": 3,
+    "title": "Advances in Computer Vision",
+    "author": "Alice Johnson",
+    "year": "2022",
+    "keywords": "computer vision, deep learning",
+    "citations": 200
+  },
+  {
+    "id": 4,
+    "title": "A Survey on Graph Neural Networks",
+    "author": "Bob Lee",
+    "year": "2021",
+    "keywords": "graph neural networks, machine learning",
+    "citations": 150
+  },
+  {
+    "id": 5,
+    "title": "Reinforcement Learning in Robotics",
+    "author": "Jane Doe",
+    "year": "2019",
+    "keywords": "reinforcement learning, robotics",
+    "citations": 95
+  }
+]
